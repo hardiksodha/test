@@ -1,0 +1,141 @@
+
+Question 1: What is AWS API Gateway?
+
+a) A fully managed relational database service
+b) A serverless compute service
+c) A service for creating and managing APIs
+d) A content delivery network service
+
+Answer 1: c) A service for creating and managing APIs
+
+Question 2: Which AWS service is used for serverless compute and allows you to run code in response to events and triggers?
+
+a) Amazon EC2
+b) AWS Lambda
+c) AWS API-GW
+d) AWS DynamoDB
+
+Answer 2: b) AWS Lambda
+
+
+
+Question 4: What is the purpose of AWS DynamoDB in a serverless application?
+
+a) It manages serverless functions.
+b) It hosts static website content.
+c) It stores and retrieves data with high scalability and low latency.
+d) It deploys APIs for serverless applications.
+
+Answer 4: c) It stores and retrieves data with high scalability and low latency.
+
+
+
+
+
+
+
+Question 8: In a serverless architecture, what are cold starts in the context of AWS Lambda?
+
+a) The process of turning off unused server resources.
+b) The initial delay when a Lambda function is invoked for the first time.
+c) The process of monitoring Lambda function usage.
+d) The termination of Lambda functions after a specific time period.
+
+Answer 8: b) The initial delay when a Lambda function is invoked for the first time.
+
+Question 9: Which AWS service allows you to define and manage the fine-grained access control for APIs created with AWS API Gateway?
+
+a) AWS IAM (Identity and Access Management)
+b) AWS CloudFormation
+c) AWS KMS (Key Management Service)
+d) AWS CloudTrail
+
+Answer 9: a) AWS IAM (Identity and Access Management)
+
+Question 10: What is the pricing model for AWS Lambda in a serverless architecture?
+
+a) Pay-as-you-go based on the number of requests and duration
+b) A fixed monthly fee per function
+c) Free of charge for all use cases
+d) Pay-as-you-go based on the amount of storage used
+
+Answer 10: a) Pay-as-you-go based on the number of requests and duration
+
+
+Question 11: What is the purpose of an API Gateway stage in AWS API Gateway?
+
+a) It's used to create and manage Lambda functions.
+b) It defines the authentication and authorization settings for the API.
+c) It allows you to manage different versions and deployments of your API.
+d) It's a separate endpoint for accessing DynamoDB tables.
+
+Answer 11: c) It allows you to manage different versions and deployments of your API.
+
+Question 12: How does AWS Lambda handle resource provisioning in a serverless architecture?
+
+a) It requires manual scaling and provisioning of server resources.
+b) It automatically provisions resources based on traffic and usage.
+c) It relies on an external load balancer to manage resources.
+d) It uses reserved instances for resource provisioning.
+
+Answer 12: b) It automatically provisions resources based on traffic and usage.
+
+Question 13: In the context of AWS DynamoDB, what is a primary key?
+
+a) The first column of a table
+b) A unique identifier for a table
+c) The index used for sorting data
+d) A reserved keyword in DynamoDB
+
+Answer 13: b) A unique identifier for a table.
+
+
+
+Question 15: In a serverless architecture, what is the role of the AWS CloudWatch service?
+
+a) It manages database tables in DynamoDB.
+b) It provides real-time monitoring and logging for AWS resources.
+c) It is an API management service.
+d) It provisions and scales Lambda functions.
+
+Answer 15: b) It provides real-time monitoring and logging for AWS resources.
+
+
+
+
+Question 17: Which AWS service can be used to automate the deployment of serverless applications, including AWS API Gateway, Lambda functions, and DynamoDB tables?
+
+a) AWS Elastic Beanstalk
+b) AWS CloudFormation
+c) AWS Step Functions
+d) AWS ECS (Elastic Container Service)
+
+Answer 17: b) AWS CloudFormation
+
+Question 18: What is the maximum execution time for an AWS Lambda function?
+
+a) 5 seconds
+b) 15 minutes
+c) 1 hour
+d) There is no maximum execution time.
+
+Answer 18: b) 15 minutes
+
+Question 19: Which AWS service can be used to create custom authorizers for API Gateway, allowing you to control access to your APIs?
+
+a) AWS Cognito
+b) AWS Identity and Access Management (IAM)
+c) AWS Lambda
+d) AWS Elastic Load Balancing
+
+Answer 19: c) AWS Lambda
+
+Question 20: In a serverless architecture, what is the primary advantage of using AWS services over traditional server-based solutions?
+
+a) Lower initial setup cost
+b) Greater control over server resources
+c) No need for ongoing maintenance and patching
+d) Higher predictability of resource availability
+
+Answer 20: c) No need for ongoing maintenance and patching
+
