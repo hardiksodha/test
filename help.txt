@@ -1,0 +1,24 @@
+
+Dear Keyur,
+
+I hope this message finds you well. As we approach the end of the year, I wanted to take a moment to reflect on your performance over the past months. Overall, your contributions to the team have been commendable, and I appreciate your dedication to the Order domain, showcasing remarkable technical proficiency and commitment throughout the year.
+
+Your exceptional expertise and command in the Authorization area have not gone unnoticed. You've positioned yourself as the go-to person in this domain, earning recognition from various teams. Your technical skills are a valuable asset to our team, and I encourage you to continue leveraging and expanding upon them.
+
+However, as with any professional journey, there are areas for growth. While your technical skills shine, there is room for improvement in strategic thinking. Actively participating in and engaging with strategic discussions will deepen your understanding of the business landscape, enhancing our technical strategy during account closure journey design and discussions. Your increased involvement in important calls will undoubtedly bring valuable insights to the table, contributing to our strategic decision-making process.
+
+I've also noted some specific areas that could benefit from attention. Completing cross-functional knowledge transfer sessions on time is crucial for team efficiency. Additionally, the prompt sharing of team feedback and assuming a more business-minded approach by taking ownership of Auth work independently will further strengthen your role. 
+
+I encourage you to work on confident decision-making, reducing the need to go back and check frequently. This will be particularly impactful in delivery defect scenarios, such as those involving credit limit. Multi-tasking is another area to focus on; the ability to handle multiple tasks simultaneously is a valuable skill that can contribute to increased productivity.
+
+Furthermore, as a technical lead, embracing a broader perspective will help minimize recurring discussions within the team, optimizing developers' bandwidth. I understand the challenges, and I believe your proactive approach can make a significant difference in streamlining processes.
+
+On a related note, prompt responses in team chats are essential for effective communication and collaboration. Please consider this as an area for improvement.
+
+Lastly, considering the ask of managing 2-3 folks, I encourage you to consider this as a development opportunity. Taking on such responsibilities aligns with the expectations for someone in your role and can contribute to your growth within the organization.
+
+In conclusion, Keyur, your achievements this year are noteworthy, and I have confidence that by addressing these constructive points with your positive outlook, you will continue to excel and contribute significantly to the success of our team and the organization. Thank you for your hard work and dedication throughout the year.
+
+Wishing you a successful and fulfilling year ahead.
+
+Best Regards,
