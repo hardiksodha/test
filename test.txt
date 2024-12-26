@@ -1,48 +1,49 @@
 
- Year-End Self Evaluation
 
-1. Leadership and Team Management
-Throughout the year, I have taken active roles in leadership by spearheading multiple initiatives across the NGCB domain. Notably, I have:
-- Mentorship: Acted as a core member of the NGCB mentoring team and control board member, helping create meaningful mentoring pairs for skill development.
-- Supportive Leadership: Provided emotional and professional support to colleagues by reading through HR policies and guiding them through challenging times.
-- Cross-functional Support: Helped a colleague fulfill their desire to work in a different domain, ensuring no disruption to the team’s ongoing deliverables.
-- Extended Leadership: Supported the launch of key initiatives, such as Arrow, by offering extended hours and effort to ensure timely delivery.
 
-2. Project Delivery and Strategic Contributions
-I led several high-impact projects within the organization, enhancing our technology stack and customer experience:
-- Lambda Authorizer Enhancements: Drove critical improvements that enhanced the security of our API and microservice infrastructure.
-- Tech Upgrades: Successfully led the upgrade initiatives for Java 17, Spring Boot 3, and Python 3.11, ensuring our tech stack remains up-to-date and efficient.
-- Context-Based Security Enhancements: Led the design and development of the Context-Based Eligibility Check Utility for NGCB, improving security checks and saving critical processing time.
-- Environment Compatibility Checker: Designed a utility that identified environment gaps, saving hours of troubleshooting and ensuring production-like environments for testing fixes.
-- Payments, Authentication, and ATD Improvements: Ensured smooth operations across Payments, Auth, and ATD domains, contributing to more reliable production services.
-  
-3. Technical Excellence and Innovation
-This year, I have pushed forward with innovations that enhance technical processes and reduce operational overhead:
-- Data Sync Design: Developed robust solutions for syncing data, ensuring smooth and efficient transfers across our systems.
-- Route 53 POCs: Drove proof-of-concept work for AWS Route 53, exploring DNS management improvements.
-- Behavioral Design: Played a critical role in the design process by providing feedback that improved the user experience and system behavior.
-- Performance Improvements: Led several performance enhancement initiatives, resulting in optimized systems and improved response times.
 
-4. Product Delivery and Client-Centric Solutions
-I led significant product and customer-facing developments, driving business success:
-- Account Closure and Balance Transfer Journeys: Managed and delivered key customer initiatives such as Account Closures (Strategic, Bank-Initiated, and Customer-Initiated) and Balance Transfer Journeys from the Payments and ATD sides.
-- Account Sale Guarding: Ensured that account sales were safeguarded, minimizing risk during sales transitions.
-- Self-Serve Decommissioning: Contributed to reducing technical debt by leading the Self-Serve Decommissioning initiative.
-  
-5. Awards and Recognition
-- BUK Technical Blog Award: I was honored with a BUK-level award for my technical blog on Securing APIs and Microservices in a Blogbuster Competition.
-  
-6. Community and Collaboration
-- Citizenship Event: Actively participated in citizenship events such as the Cleanliness Drive, contributing to the company’s social responsibility initiatives.
-- Book Club Participation: Registered and prepared to present a book in our upcoming book club meeting, fostering knowledge sharing and personal development.
-- Workshops: Facilitated workshops focused on solving production issues and improving log generation for critical events, improving overall system monitoring and debugging efficiency.
+1. **Technical Skills**: 
+   - You have a solid understanding of core technical concepts and have consistently met the expectations for task completion. Your ability to tackle tasks and deliver solutions has been reliable, and you've shown a keen ability to address immediate challenges effectively.
+   - While your code quality has been good overall, there is potential to further refine your solutions to make them more efficient and scalable. Focusing on optimizing designs and exploring advanced techniques will elevate your contributions even further.
 
-7. Challenges and Growth
-While delivering on multiple fronts, I extended myself to support different domains without compromising on the quality and timelines of ongoing projects. This year, my growth has been deeply intertwined with expanding my leadership footprint and continuing to deliver technical excellence across strategic initiatives.
+2. **Collaboration**:
+   - Your teamwork and collaboration with peers and cross-functional teams have been commendable. You are a dependable team player and consistently contribute when needed. Moving forward, you have the opportunity to strengthen your proactive communication, ensuring that you're providing regular updates and sharing potential challenges early on.
+   - Your technical communication is clear, and you do well in explaining complex topics to the team. By further enhancing your ability to articulate your ideas and challenges, especially with non-technical stakeholders, you can amplify your influence.
 
-8. Future Goals
-Looking ahead, I aim to continue driving innovation, increasing automation across NGCB, and exploring new avenues for security enhancements, particularly in cloud environments. My focus will remain on nurturing talent within the team, improving cross-domain collaboration, and contributing to more sustainable and scalable solutions for our products.
+3. **Leadership**:
+   - You have shown initiative in your leadership role, offering support to your team when needed. You’ve been a steady presence, ensuring that the team can rely on you to guide them through key projects.
+   - Looking ahead, there's an exciting opportunity for you to step up as a mentor, helping junior team members grow and take on more responsibility. Your leadership in shaping the technical direction will also be key to the team’s success.
 
----
 
-This evaluation touches on key achievements, leadership qualities, and the impact you’ve had in various technical and community initiatives. Let me know if you'd like to refine or add any more details!
+
+1. **Technical Growth and Problem-Solving**:
+   - You have a strong foundation, and by focusing on expanding your expertise in system design, architecture, and performance optimization, you will continue to elevate your technical contributions.
+   - Continuing to seek feedback during code reviews will help refine your technical approach and ensure high-quality, maintainable code.
+
+2. **Proactive Communication**:
+   - Keep up the great work in your communications with the team. Moving forward, try to take a more proactive approach in addressing potential issues before they escalate, while maintaining transparency with the team and stakeholders.
+   - Practicing how to convey technical concepts to diverse audiences will help you make an even greater impact in cross-functional meetings.
+
+3. **Mentorship and Leadership**:
+   - This year, you’ve laid a strong foundation for leadership. In 2025, stepping into more mentorship roles, particularly with junior developers, will allow you to foster growth within the team and position yourself as a go-to leader for technical guidance.
+   - Leading initiatives and taking on more complex tasks will give you the chance to drive the team towards innovative solutions and influence the team’s technical direction.
+
+#### Workable Items for 2025:
+
+1. **Deepen Technical Knowledge**: 
+   - Consider exploring deeper into advanced system design and architecture. Training programs or certifications (such as Cloud Architecture or Advanced Algorithms) can further build your expertise and contribute to the team’s success.
+
+2. **Enhance Communication Skills**: 
+   - Focus on improving your communication style by practicing more frequent and proactive updates to stakeholders. Enhancing your ability to explain complex technical topics to non-technical audiences will ensure that your contributions are understood and valued across teams.
+
+3. **Strengthen Leadership and Mentoring**: 
+   - Take ownership of larger projects or initiatives to build your leadership capabilities. Organize regular check-ins with junior team members to provide guidance and help them navigate complex technical challenges.
+   - Engage in regular design and architecture discussions with the team to foster a collaborative and innovative environment.
+
+4. **Improve Code Quality**:
+   - Continue focusing on maintaining high code quality and consider introducing best practices to enhance scalability and performance. Participate more in code reviews to ensure consistent and efficient solutions across the team.
+
+5. **Effective Time Management**:
+   - Improve the balance between coding, meetings, and team support by prioritizing tasks effectively. Focus on time management strategies to help you juggle leadership, technical work, and team support more efficiently.
+
+By continuing to build on your strong foundation and focusing on these key areas in 2025, you’ll be well-positioned to take on more leadership responsibilities and make an even greater impact on the team and projects. Your contributions are already valuable, and I look forward to seeing how you grow in the coming year.
