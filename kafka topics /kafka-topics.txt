@@ -1,0 +1,37 @@
+Criteria | Single Topic | Multiple Topics
+Message Format / Schema | All producers must follow a common schema | Different producers can have custom schemas
+Event Volume | Easier if event volume is manageable | Scales better under high throughput
+Consumer Logic | Consumer must route based on sender or eventType | Each topic can have dedicated consumers
+Isolation & Fault Tolerance | Issues in one sender’s message format may affect others | Problems are isolated to a single topic
+Operational Complexity | Fewer topics to manage | More topics, more ACLs/configs to manage
+Monitoring & Alerting | Harder to isolate sender-specific issues | Easier to track sender-specific metrics
+Retention & Cleanup Policy | One policy for all messages | Fine-grained control per topic
+
+
+Use Single Topic If:
+All producers follow the same schema (or versioned schemas).
+
+Volume is moderate and consumer logic is simple.
+
+You want simpler operations (fewer topics).
+
+You're using schema registry and can evolve schemas safely.
+
+Example:
+Topic: all-app-events
+
+Message: includes sender_id, event_type, payload
+
+✅ Use Multiple Topics If:
+Producers have different payload structures.
+
+You want clear separation of concerns.
+
+Your app needs fine-grained access control (e.g. only App A can write to app-a-events).
+
+You need to scale or troubleshoot per app easily.
+
+Example:
+Topics: app-a-events, app-b-events, app-c-events
+
+Each has its own retention/processing pipeline
